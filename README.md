@@ -2,8 +2,11 @@
 ### I'm Charles-Thibault, Full Stack Developer 👐
 <br />
 - 🤩 Open Source project enthusiast
+
 - 🎧 Currently working at [Ongaku](https://github.com/ritammv/ongaku) a music sharing plateform ! Go check it out
-- 🥦 Stay sustainable in my life & in my code 
+
+- 🥦 Sustainable in my life & in my code
+
 - 👀 Here is my [LinkedIn](https://www.linkedin.com/in/chthve/) if you want to know more about me 
 
 <br />
