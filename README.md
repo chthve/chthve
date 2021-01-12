@@ -1,5 +1,5 @@
 ### Hi there ,
-### I'm Charles-Thibault, 👐
+### I'm Charles-Thibault,  👐
 <br />
 
 Full Stack developer, clean code 🧹 and Typescript lover. React, Express, HTML/CSS, Postgres, MongoDB, GIT, Angular, Koa, Docker and Sequelize are my companions 👫. I love the functionality of programming and the logical thought process required under the hood.
